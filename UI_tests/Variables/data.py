@@ -1,5 +1,5 @@
 YANDEX_BasePage_URL = 'https://yandex.ru/'
-YANDEX_LOGIN = 'kolchanov.alexei@yandex.ru'
-YANDEX_PASSWORD = '08032012kol'
+YANDEX_LOGIN = ''
+YANDEX_PASSWORD = ''
 FOLDER_NAME = 'Тестовая папка'
 DOCUMENT_NAME = 'Тестовый документ'
